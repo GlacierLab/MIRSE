@@ -1,0 +1,1 @@
+Start-Process -Verb RunAs -FilePath node -ArgumentList index.js
